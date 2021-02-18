@@ -12,6 +12,6 @@ $Perso2 = new Personnage($id2);
 
 combat($Perso1,$Perso2);
 
-$jsonretour = "{perso:'qddsq'{{ sjhqdqsdqd qd]]";
+$jsonretour = "{ perso: { 'sjhqdqsdqd' : 'qd' }}";
 
     echo $jsonretour;
